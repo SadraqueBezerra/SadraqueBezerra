@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Sadraque Bezerra 👋 Sejam muito bem vindos !!
 
-- 🔭 Atualmente não estou trabalhando na área
+- 🔭 Professor de Programação e Robótica
 - 🌱 Estou cursando Análise e Desenvolvimento de Sistemas na FATEC
 
 <div>
